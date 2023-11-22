@@ -1,0 +1,1034 @@
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] [0m[0m[32mScanning resources.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mFound 403 resources.[0m
+[38;5;66m[          svadhesive] [0m[0mAuthenticating server license key...
+[38;5;66m[          svadhesive] [0m[0mServer license key authentication succeeded. Welcome!
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource sessionmanager
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for stx
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource stx
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for fyx
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource fyx
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-chat
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-chat
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource spawnmanager
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for nui_blocker
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource nui_blocker
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource baseevents
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for ragdoll
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource ragdoll
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-datagrid
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-datagrid
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-gangsystem
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-gangsystem
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-cinema.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-contextx
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-queue
+[38;5;180m[    script:str-queue] [0m[0m[93mQUEUE: [97m[91m [str-queue] Disabling hardcap [0m[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-queue
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for oxmysql
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource oxmysql
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-base
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-base
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-interface.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-infinity
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-infinity
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-spawn
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-spawn
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-spawnstation/sp_01_station.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-spawnstation
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-config
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-config
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-i18n
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-i18n
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-fiber
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-fiber
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-weathersync
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-weathersync
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-lootsystem
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-lootsystem
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-editor
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-island
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-island
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-locales
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-boosting
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-boosting
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-tcg
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-tcg
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-clothing
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-clothing
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-ai-aggression
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-log
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-log
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-companions
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-companions
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-sync
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-sync
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-ui
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-uix
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script @str-libh/server/sv_rpc.lua.
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-uix
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource nikez-occlusion
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-mechanics
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-mechanics
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-actionbar.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-inventory
+[38;5;88m[script:str-inventory] [0m[0mError loading script server/sv_clean.js in resource str-inventory: SyntaxError: Identifier 'DroppedInventories' has already been declared
+[38;5;88m[script:str-inventory] [0m[0mstack:
+[38;5;88m[script:str-inventory] [0m[0mSyntaxError: Identifier 'DroppedInventories' has already been declared
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script server/sv_clean.js.
+[38;5;88m[script:str-inventory] [0m[0mError loading script server/sv_functions.lua in resource str-inventory: @str-inventory/server/sv_functions.lua:142: attempt to index a nil value (global 'RPC')
+[38;5;88m[script:str-inventory] [0m[0mstack traceback:
+[38;5;88m[script:str-inventory] [0m[0m	@str-inventory/server/sv_functions.lua:142: in main chunk
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script server/sv_functions.lua.
+[38;5;88m[script:str-inventory] [0m[0mError loading script server/sv_main.js in resource str-inventory: SyntaxError: Identifier 'DataEntries' has already been declared
+[38;5;88m[script:str-inventory] [0m[0mstack:
+[38;5;88m[script:str-inventory] [0m[0mSyntaxError: Identifier 'DataEntries' has already been declared
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script server/sv_main.js.
+[38;5;88m[script:str-inventory] [0m[0mError loading script server/sv_shops.js in resource str-inventory: SyntaxError: Identifier 'shopList' has already been declared
+[38;5;88m[script:str-inventory] [0m[0mstack:
+[38;5;88m[script:str-inventory] [0m[0mSyntaxError: Identifier 'shopList' has already been declared
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script server/sv_shops.js.
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-inventory
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-weapons
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-weapons
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_animations
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_dogs
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_event_peds/FreddyKrueger.ytd uses 19.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_event_peds/RatBoy.ytd uses 59.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_event_peds/Robin_AC.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_event_peds/batman.ytd uses 60.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_event_peds/ig_leon.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_event_peds/ig_nemesis.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_event_peds
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_minimap_gfx
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_misc
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_objects
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/Mr_kebun^accs_007_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/Mr_kebun^berd_010_u.ydd uses 48.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/Mr_kebun^berd_012_u.ydd uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/Mr_kebun^task_003_u.ydd uses 48.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/Mr_kebun^uppr_014_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/Mr_kebun_p^p_head_001.ydd uses 48.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/RatBoy.ytd uses 59.5 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/a_f_m_trish.ytd uses 33.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/a_f_y_brenda.ytd uses 20.1 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/a_f_y_brenda_cop.ytd uses 17.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/a_f_y_ellie.ytd uses 32.1 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/a_f_y_windsong.ytd uses 20.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/a_f_y_zelda.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/a_m_m_bigd.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/a_m_o_bill.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/a_m_y_erf.ytd uses 21.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/codprice.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/francis_g_francer.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/francis_j_francer.ytd uses 33.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/francis_small_francer.ytd uses 50.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/g_m_m_buddha.ytd uses 38.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/g_m_y_gary.ytd uses 23.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/ig_cornwood.ytd uses 17.1 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/ig_deanquincy^feet_diff_006_d_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/ig_garrett.ytd uses 30.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/ig_heli_p^p_lwrist_000.ydd uses 17.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/ig_nottics.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/ig_peanut.ytd uses 29.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/ig_petunia.ytd uses 32.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/ig_tinkerman^decl_001_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/ig_trafficwarden_m.ytd uses 16.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/igor.ydd uses 23.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/igor.ytd uses 26.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/k_fatrandy.ytd uses 21.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/mando.ytd uses 48.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds/randy^feet_010_u.ydd uses 40.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/randy^jbib_diff_016_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/randy^jbib_diff_016_d_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/randy^jbib_diff_016_e_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/randy^jbib_diff_016_f_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/randy^jbib_diff_016_g_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/randy^jbib_diff_016_h_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/randy^jbib_diff_016_i_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/randy^jbib_diff_016_j_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/s_m_m_jacob.ytd uses 19.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/s_m_y_happy.ytd uses 17.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/shaggy.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/silverhand.ytd uses 27.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/u_m_y_paparazzi_02.ytd uses 26.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/yd_lifein.ytd uses 27.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds/z_sprinkle.ytd uses 19.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_peds
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds_other/ig_bennyB.ydd uses 34.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_bennyB.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_bevhills1.ytd uses 22.4 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds_other/ig_bigmac.ytd uses 36.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_boca.ytd uses 16.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_ingrid.ydd uses 26.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_lild^feet_002_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_lild^jbib_001_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_peds_other/ig_shell.ytd uses 41.6 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_snupe.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_tyler^decl_002_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_vanq.ytd uses 24.1 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/ig_yara.ytd uses 20.4 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/rk_dante.ytd uses 26.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_peds_other/triplej^lowr_diff_004_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_peds_other
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_replace
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgc8.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgc8.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgc8_hi.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcamaro.yft uses 21.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcamaro_hi.yft uses 21.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14+hi.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery10.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgcharger14_livery9.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18.yft uses 21.1 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_hi.yft uses 21.1 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery10.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgdurango18_livery9.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgemsexp.ytd uses 31.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgemsexp_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgemsraptor18_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgspeedo+hi.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgspeedo.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe+hi.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe.ytd uses 29.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery10.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtahoe_livery9.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus.ytd uses 25.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles_emergency_encrypted/clrgtaurus_livery9.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_vehicles_emergency_encrypted
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_0
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_1
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_2
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_3
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_4
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_5
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_6
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_7
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_8
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_9
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_10
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_11
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_12
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_13
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_14
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_15
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_16
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_17
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_18
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_19
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_20
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_21
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_22
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_23
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_24
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_25
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_songs_data
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_sounds
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_tattoos
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource dodobird
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource DougCanada
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource ig_mario
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource dwtestshell
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-architects
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bahama
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-billboards/app_txd.ytd uses 18.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-billboards/hei_dt1_20_ground2+hidr.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-billboards/int_txd.ytd uses 19.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-billboards
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-burgershot/bs_int_txd.ytd uses 18.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-burgershot
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str-car_fx/core.ypt uses 33.4 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-car_fx/core.ypt uses 21.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-car_fx
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-carmeet
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-casinomisc/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-casinomisc/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-casinomisc
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-cerberus
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-church
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-containers
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-crimeschool
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-crypt
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-dances
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-deanworld-map/dw_carousel_horses.ydr uses 20.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-deanworld-map/dw_carousel_rockets.ydr uses 22.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-deanworld-map/dw_stage_electronics.ydr uses 24.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-deanworld-map
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-digitalden
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-drivingschool
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-driving-instructor
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-driving-instructor
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-duubleuu
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-farming-props/np_farming_txd.ytd uses 16.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-farming-props
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-fightclub
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-disablepillbox
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-gallery
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-galleria
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-galleria
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-comicstore/np_comic_store.ytd uses 25.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-comicstore
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-hoatavern
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-housing-maps/np_h_44_txd.ytd uses 28.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-housing-maps
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-hub
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-huntingstore
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-halloweenevent
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-lighthouse_burn
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-liquidlibrary
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-liquorshop
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str-lmansion/lm.ytd uses 36.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-lmansion
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-maze_bank
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-memorialassets
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-methlabs
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-military
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-mineshafts
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-misc/np_lighthouse_int_skulls.ydr uses 23.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-misc
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-bowlingalley/denis3d_bowling_alley_txd.ytd uses 27.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bowlingalley
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str-mrpd/gabz_mrpd_txd.ytd uses 37.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-mrpd
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-news_lsbn
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-nikez-beach-house/vbh_int_txd.ytd uses 24.1 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-nikez-beach-house
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-paleto-foliage
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-parkranger
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-mpyoga
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bone-island
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-pb-arena
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-petstore
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-pillbox.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-prison/cs6_04_prison+hi.ytd uses 21.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-prison/cs6_04_prison.ytd uses 17.4 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-prison/prison_cells_wall_details1_lower.ydr uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-prison/prison_cells_wall_details1_upper.ydr uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-prison
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-prison_bunker/np_bunker_elevator_details.ydr uses 20.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-prison_bunker
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-trap-house
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-sf_dlc_office_sec
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-seaside
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-ranch/v_56_ranch+hi.ytd uses 25.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-ranch/v_56_ranch.ytd uses 25.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-ranch
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-rehab
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-sandycloth
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-showroomsmlo
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-vbpd/vw_vwint05_casino_carpark_np_shell.ydr uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vbpd
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-vegetation/globalroads.ytd uses 24.9 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vegetation
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vr_room
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-weazelnews
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-splitsides
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-harmony
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-townhall
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-hayesauto
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource housingshells.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-mapdata
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-mapdata
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-247
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-247
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource cfx-gabz-arcade.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-barber
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-barber/gabz_barber_txd.ytd uses 31.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-barber
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-binco
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-binco/gabz_binco_txd.ytd uses 25.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-binco
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bobcat
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource brofx_mansion_03
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource brofx_mansion_09.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource brofx_villa05.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cg_north
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-hades/patoche_secret_bossroom_texture1.ytd uses 23.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-hades
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-rust
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str-russia/onebeast.ytd uses 34.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-russia
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-wuchang/denis3d_wuchang_records_txd.ytd uses 19.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-wuchang
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-MAP-brofx_villa05
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-MAP-props-housing
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-MAP-snake-pit
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-MAP-xmart
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-catcafe
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-catcafe/denis3d_catcafe_txd.ytd uses 23.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-catcafe
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-pdprops
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-pdprops/gabz_pdprops01_txd.ytd uses 27.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-pdprops
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-davispd
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-davispd/gabz_davispd_txd.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-davispd
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-firedept
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-firedept
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-fleeca
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-fleeca
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-lamesapd
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-lamesapd/gabz_lamesapd_txd.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-lamesapd
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-lost
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-lost
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-lostsc
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource cfx-gabz-lscustoms.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-pacificbank
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-pacificbank/gabz_sm_pb_txd.ytd uses 26.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-pacificbank
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-paletobank
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-paletobank
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-paletopd
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-paletopd/gabz_paletopd_txd.ytd uses 17.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-paletopd
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-pizzeria
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-pizzeria/sm_pizzeria_txd_01.ytd uses 21.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-pizzeria
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-ottos
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-ottos/denis3d_otto_mechanic_txd.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-ottos
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-sandypd
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-sandypd
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-scenarios
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-scenarios
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-suburban
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-suburban
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for cfx-gabz-tuners
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset cfx-gabz-tuners/denis3d_tunershop_txd.ytd uses 17.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx-gabz-tuners
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx_gn_collection
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx_gn_medical_assets
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx_gn_ambulance_garage
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx_gn_medic_center
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx_gn_int_clinic
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx_gn_medical_accessories
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cfx_gn_clinic_sandy
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-props
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vehicleconfig
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vehicleaudio
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vehicleaudio2
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vehiclewheels
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vehicletunerfix
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource veh_lykan
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-rcvehicles
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-rcvehicles
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-vehiclelifts
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vehiclelifts
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-atc
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-atc
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for mka-lasers
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource mka-lasers
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for mka-anchor
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource mka-anchor
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for mka-grapple
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource mka-grapple
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource NativeUI
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-selector
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-admin
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-admin
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-adminUI
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for PolyZone
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource PolyZone
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-apartments
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-apartments
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-banking
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-banking
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-keyboard
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-bennys
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bennys
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-hacking
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-banking-ui
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-keybinds
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for heli
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource heli
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-bugs
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bugs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-build
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-build
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-bowling
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bowling
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-camera
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-commands
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-commands
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-context
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-density
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-density
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-dispatch
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-dispatch
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-doors
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-doors
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-cleanup
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-controller-test
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-controller-test
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-dealer
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-elections
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-elections
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-blackjack
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-blackjack/s_f_y_casino_01.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-blackjack/s_m_y_casino_01.ytd uses 20.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-blackjack
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-casino
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-casino
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-roulette.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-slotmachines
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-slotmachines
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-signin
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-signin
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource wk_wrs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-phone
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-phone
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-evidence
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-evidence
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-cid
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-cid
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-eblips
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-eblips
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-graffiti
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-graffiti
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-farmersmarket
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-farmersmarket
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-errorlog
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-errorlog
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-flags
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-flags
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str-flames/core.ypt uses 33.4 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-flames/core.ypt uses 21.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-flames
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-healthcare
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-healthcare
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-hud
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-hud
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for carandplayerhud
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource carandplayerhud
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-fx
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-fx
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-doubleclutch
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-driftschool
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-driftschool
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-buffs
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-buffs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-skills
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-skills
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-notepad
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-notepad
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-shops
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-shops
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-jobmanager
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-jobmanager
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-lockpicking
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-lib
+[38;5;25m[      script:str-lib] [0m[0mError loading script server/sv_rpcs.js in resource str-lib: SyntaxError: Identifier 'Promises' has already been declared
+[38;5;25m[      script:str-lib] [0m[0mstack:
+[38;5;25m[      script:str-lib] [0m[0mSyntaxError: Identifier 'Promises' has already been declared
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script server/sv_rpcs.js.
+[38;5;25m[      script:str-lib] [0m[0mError loading script server/sv_syx.js in resource str-lib: SyntaxError: Identifier 'STX' has already been declared
+[38;5;25m[      script:str-lib] [0m[0mstack:
+[38;5;25m[      script:str-lib] [0m[0mSyntaxError: Identifier 'STX' has already been declared
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script server/sv_syx.js.
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-lib
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-loading-screen
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-thermite
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-mapdata
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-mdw
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-mdw
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-menu
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-menu
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-mining
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-mining
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-misc-code
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-misc-code
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-miscscripts
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-miscscripts
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-beekeeping
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-beekeeping
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-autopilot
+[38;5;142m[script:str-autopilot] [0m[0mSatellite for Tesla's Initialized
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-autopilot
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-storageunits
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-storageunits
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-objects
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-objects
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-npcs
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-npcs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-oPlayerNumbers
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-oPlayerNumbers
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-oCam
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-oBinoculars
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-oRecoil
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-oStress
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-heatmap
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-police
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-police
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-polvehshop
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-polvehshop
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-spikes
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-spikes
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-housing
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-housing
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-copcount
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-copcount
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-gov
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-gov
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-polytarget
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-polytarget
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-polyzone
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-interact
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-interact
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-jail
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-jail
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-propattach
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-propattach
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-scenes
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-scenes
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-polychair
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-polychair
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-playerlist
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-playerlist
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-target
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-taskbar
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-gangweapons
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-gangweapons
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-oilers
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-oilers
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-input
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-taskbarthreat.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-tasknotify
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-jobs
+[38;5;161m[    c-scripting-core] [0m[0mFailed to load script @str-lib/client/sv_rpc.lua.
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-jobs
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-hunting
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-hunting
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-fishing
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-fishing
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-news
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-news
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-newsJob
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-newsJob
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-ems
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-vehicles
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vehicles
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-ottosauto
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-ottosauto
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-voice
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-voice
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-voicerec
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-voicerec
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-votesystem
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-votesystem
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-trays
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-usableprops
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-usableprops
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-captive
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-wheelfitment
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-wheelfitment
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-ytypparser
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for meta_libs
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource meta_libs
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-drilling
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-heists
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-heists
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-heists-old
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-heists-old
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-securityheists
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-securityheists
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-pettycrime.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-business
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-business
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-restaurants
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-restaurants
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-winery
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vault
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-hackdevice
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-slider
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-showroom
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-showroom
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-tunershop
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-tunershop
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for wild-radio
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource wild-radio
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-taximeter
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-taximeter
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-particles
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-particles
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-proxies
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-rentals
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-rentals
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-boatshop
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-boatshop
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-bicycles
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bicycles
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-airshop
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-airshop
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-polaroid
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-polaroid
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-drifting.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for yarn
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource yarn
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for webpack
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource webpack
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for screenshot-basic
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource screenshot-basic
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource cinematiccam
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource warmenu
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource emotes
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for InteractSound
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource InteractSound
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource isPed
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-vehiclesync
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-vehiclesync
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource mka-array
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-radio
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-radio
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource raid_carmenu
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for raid_clothes
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource raid_clothes
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for towtruckjob
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource towtruckjob
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource storage
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource milispawns
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource pNotify
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for tf-pointing
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource tf-pointing
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-gunmetas
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-gunmetas_misc/w_mg_flamethrower.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-gunmetas_misc
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str_gunmetas_temp.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str-custom_weapons/w_am_staff.ytd uses 33.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons/w_sg_izh81.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str-custom_weapons/w_sg_ltl+hi.ytd uses 40.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str-custom_weapons/w_sg_ltl.ytd uses 40.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-custom_weapons
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-custom_weapons_melee
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_ar_assaultrifle2+hi.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_ar_assaultrifle2.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_me_katana.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_pi_heavypistol+hi.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_pi_heavypistol.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_pi_heavypistol_luxe+hi.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_pi_heavypistol_luxe.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_sb_microsmg3.ytd uses 17.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str-custom_weapons_old/w_sb_uzi.ytd uses 17.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-custom_weapons_old
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-custom_weapons_thrown
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str_clothes/mp_f_freemode_01_np^accs_027_u.ydd uses 34.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str_clothes/mp_f_freemode_01_np^jbib_032_u.ydd uses 34.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str_clothes/mp_f_freemode_01_np^jbib_033_u.ydd uses 34.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str_clothes/mp_f_freemode_01_np^jbib_035_u.ydd uses 34.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str_clothes/mp_f_freemode_01_np^jbib_038_u.ydd uses 34.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset str_clothes/mp_f_freemode_01_np^lowr_022_u.ydd uses 34.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes/mp_m_freemode_01_np^hair_diff_002_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes/mp_m_freemode_01_np^hair_diff_004_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes/mp_m_freemode_01_np^jbib_029_u.ydd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str_clothes
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_a_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_b_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_c_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_d_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_e_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_f_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_g_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_h_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_i_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_j_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_k_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_l_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_m_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_n_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_o_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_p_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_q_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_r_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_s_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_t_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_u_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_v_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_w_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_x_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_y_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset str_clothes_new/mp_m_freemode_01_mp_m_np_new^jbib_diff_032_z_uni.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str_clothes_new
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str_clothes_pridemonth.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str_clothes_props
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/19raptor.yft uses 21.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/19raptor.ytd uses 16.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/19raptor_hi.yft uses 21.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/22g63.ytd uses 19.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/22m5.ytd uses 17.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/488misha.ytd uses 16.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/675ltsp.yft uses 23.1 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/675ltsp_hi.yft uses 23.1 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/720s.yft uses 16.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/720s.ytd uses 22.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/720s_hi.yft uses 16.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/a45amg.yft uses 19.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/a45amg.ytd uses 21.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/a45amg_hi.yft uses 19.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/a6.ytd uses 29.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/a6_hi.yft uses 16.8 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/a80.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/aamx.ytd uses 18.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/acr.ytd uses 26.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/acs8.ytd uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/ajnatrio2.yft uses 17.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/ajnatrio2_hi.yft uses 17.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[91mAsset assets_vehicles/an225.ytd uses 80.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/audirs6tk.ytd uses 31.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/audirs6tk_hi.yft uses 16.8 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/bc_hi.yft uses 17.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/bdragon.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/bdragon_hi.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/bluecunt.ytd uses 25.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/bmwr.yft uses 19.6 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/bt62r.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/c63.yft uses 22.4 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/c63_hi.yft uses 19.8 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/c7.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/chiron17.ytd uses 52.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/contss18.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/contss18_hi.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/db11.yft uses 17.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/db11_hi.yft uses 17.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/dc5.ytd uses 21.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/demon.ytd uses 20.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/drgpr_liv_1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/drgpr_liv_2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/drgpr_liv_3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/drgpr_liv_4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/e36prb.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/e36prb.ytd uses 40.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/e36prb_hi.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/exor.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/falcon.ytd uses 63.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/filthynsx.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/filthynsx.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/filthynsx_hi.yft uses 18.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/gt17.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/gt17_hi.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/gt86.yft uses 16.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/gt86.ytd uses 16.1 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/gt86_hi.yft uses 16.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/hellion_livery11.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/hellion_livery12.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/honody.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/honody.ytd uses 17.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/honody_hi.yft uses 17.2 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/kiagt.yft uses 18.1 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/kiagt.ytd uses 17.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/kiagt_hi.yft uses 18.1 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/laferrari17.ytd uses 27.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/lc500.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/lfa.ytd uses 33.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/lfa_hi.yft uses 18.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/lp700.yft uses 20.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/lp700_hi.yft uses 20.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/lpi8004.yft uses 17.6 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/lpi8004_hi.yft uses 17.6 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/m4.ytd uses 26.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/m5_rbswap_sturbo.yft uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/m5e60+hi.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/m5e60.ytd uses 20.4 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/mbc63.ytd uses 20.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/monroec.ytd uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/mustang19.ytd uses 18.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/nis180.yft uses 18.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/nis180_hi.yft uses 18.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/nis180_int1s1.yft uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/npolchal.ytd uses 20.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/npolstang.ytd uses 18.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/npolvette.ytd uses 22.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[91mAsset assets_vehicles/npphantom.ytd uses 160.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/panamera17turbo.yft uses 21.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/panamera17turbo_hi.yft uses 21.0 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/peanut.ytd uses 18.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/pgt322.ytd uses 55.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/police2.ytd uses 40.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign10.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign11.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign12.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign13.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/primod_sign9.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/ptm_livery_2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/ptm_livery_3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/ptm_livery_8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/r1.ytd uses 29.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/r32.ytd uses 29.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/r32_livery_1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/r32_livery_2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/r33.ytd uses 21.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/r8h.yft uses 17.6 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/r8h.ytd uses 56.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/r8h_hi.yft uses 17.6 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/raid.yft uses 19.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/raid_hi.yft uses 19.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rmodmustang.yft uses 17.1 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rmodmustang.ytd uses 17.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rsv8_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rsv8_livery11.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rsv8_livery2.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rsv8_livery3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rsv8_livery4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rsv8_livery5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/rsv8_livery6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/s15rb.ytd uses 64.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/senna.ytd uses 48.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/srt8b.ytd uses 16.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/sultanrsv8.ytd uses 56.0 MiB of physical memory. Oversized assets can and WILL lead to streaming issues (models not loading/rendering, commonly known as 'texture loss', 'city bug' or 'streaming isn't great').[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tempesta2.yft uses 16.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tempesta2_hi.yft uses 16.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tractorc_livery1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tractorc_livery3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tractorc_livery4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tractorcv8.ytd uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/tsgr20.ytd uses 33.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv1.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv10.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv11.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv12.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv13.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv14.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv15.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv16.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv17.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv18.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv3.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv4.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv5.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv6.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv7.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv8.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/tsgr20_liv9.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/v242.yft uses 31.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/v242_hi.yft uses 31.5 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/v877.ytd uses 19.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/veh_fza_shared.ytd uses 20.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/vehicles_r32_tuning.ytd uses 40.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/vulcan.yft uses 16.9 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/vulcan_hi.yft uses 16.9 MiB of virtual memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_agt2.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_ete1.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_fm.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_gx1.ydr uses 20.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_lg4.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_rs050rr.ydr uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_sa60.ydr uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_te37v.ydr uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/wheel_spor_vsxxw.ydr uses 24.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/yos3_livery12.yft uses 32.0 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[93mAsset assets_vehicles/z2879.ytd uses 41.5 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset assets_vehicles/zx10.ytd uses 21.2 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource assets_vehicles
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource chimp
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource vanya
+[38;5;73m[ citizen-server-impl] [0m[0m[94mAsset temp_vh/rmodaudirs7.ytd uses 27.8 MiB of physical memory.[0m
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource temp_vh
+[38;5;73m[ citizen-server-impl] [0m[0m[93mCouldn't find resource str-houserobberies.[0m
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-weed
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-weed
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-meth
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-meth
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-drugeffects
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-cocaine
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-cocaine
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-racing
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-racing
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-bulletclub
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-bulletclub
+[38;5;73m[ citizen-server-impl] [0m[0mStopping resource str-admin
+[38;5;161m[    c-scripting-core] [0m[0mCreating script environments for str-admin
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-admin
+[38;5;73m[ citizen-server-impl] [0m[0mStopping resource str-adminUI
+[38;5;73m[ citizen-server-impl] [0m[0mStarted resource str-adminUI
+cfx> [38;5;42m[      script:oxmysql] [0m[0m[91mError: Ignoring invalid configuration option passed to Connection: . This is currently a warning, but in future versions of MySQL2, an error will be thrown if you pass an invalid configuration option to a Connection[0m
+[38;5;86m[   script:str-config] [0m[0m[Config] Initializing config...
+[38;5;86m[   script:str-config] [0m[0m[Config] Config initialized.
+[38;5;103m[    script:str-buffs] [0m[0m[BUFFS] - Checking DB progression 
+[38;5;103m[    script:str-buffs] [0m[0m[BUFFS] - Progression Loaded
+[38;5;56m[      script:str-mdw] [0m[0m[MDW] - Initiate MDW
+[38;5;56m[      script:str-mdw] [0m[0m[MDW] - Check expired warrants
+[38;5;132m[  script:str-fishing] [0m[0mUpdated Fishing Spot: vector3(3371.315, 5183.831, 1.460242)
+[38;5;132m[  script:str-fishing] [0m[0mvector3(3371.315, 5183.831, 1.460242)
+[38;5;73m[ citizen-server-impl] [0m[0mserver thread hitch warning: timer interval of 246 milliseconds
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Commands' module is being overridden
+[38;5;42m[      script:oxmysql] [0m[0m[32mDatabase server connection established![97m
+[38;5;42m[      script:oxmysql] [0m[97m[93mAn update is available for oxmysql (current version: 2.5.1)
+
+[38;5;42m[      script:oxmysql] [0m[93mhttps://github.com/overextended/oxmysql/releases/tag/v2.5.4[97m
+[38;5;73m[ citizen-server-impl] [0m[97m[91m        fff                          
+[38;5;73m[ citizen-server-impl] [0m[91m[91m  cccc ff   xx  xx     rr rr    eee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ffff   xx       rrr  r ee   e 
+[38;5;73m[ citizen-server-impl] [0m[91m[91mcc     ff     xx   ... rr     eeeee  
+[38;5;73m[ citizen-server-impl] [0m[91m[91m ccccc ff   xx  xx ... rr      eeeee 
+[38;5;73m[ citizen-server-impl] [0m[91m                                     [0m
+[38;5;73m[ citizen-server-impl] [0m[0m[32mAuthenticated with cfx.re Nucleus: [0mhttps://raggsyy-7j6j3a.users.cfx.re/
+[0;1;95ms[0m[0;1;90met[0m[0;1;95msv[0m[0;1;90m_authMaxVariance[0m[0;1;95msvg[0m[0;1;90mui[0m[0;1;95msvgg[0m[0;1;95msvggu[0m[0;1;95msvggui[0m[0;1;95msvggui[0m
+[38;5;171m[                 cmd] [0m[0mNo such command svggui.
+cfx> [0;1;95ms[0m[0;1;90met[0m[0;1;95msv[0m[0;1;90m_authMaxVariance[0m[0;1;95msvg[0m[0;1;90mui[0m[0;1;95msvgu[0m[0;1;90mi[0m[0;1;95msvgui[0m[0;1;95msvgui[0m
+cfx> [38;5;180m[    script:str-queue] [0m[0m[93mQUEUE: [97mraggsyy[steam:11000011b13a3b3] was placed 1/1 in queue[0m
+[38;5;180m[    script:str-queue] [0m[0m[93mQUEUE: [97mraggsyy[steam:11000011b13a3b3] is loading into the server[0m
+[38;5;23m[     script:str-npcs] [0m[0m[93m[STX][NPCS][0m Spawned Random "[32mpawnshop[0m" : "[94m-278.83999633789, 2205.9299316406, 129.0[0m"
+[38;5;135m[script:str-controlle] [0m[0m[CONTROLLERS] Restriction Status | Active: true | HexID:	steam:11000011b13a3b3
+[38;5;179m[     script:str-meth] [0m[0m1	nil
+[38;5;204m[   script:str-police] [0m[0m"\"move_m@business@b\""
+[38;5;204m[   script:str-police] [0m[0m"\"move_m@business@b\""
+[38;5;53m[  script:str-banking] [0m[0m[1] No tax level found for Goods
+[38;5;53m[  script:str-banking] [0m[0m[1] No tax level found for Goods
+[38;5;73m[ citizen-server-impl] [0m[0msync thread hitch warning: timer interval of 104 milliseconds
+[38;5;217m[     script:str-base] [0m[0mWarning: 'JobManager' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Admin' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Commands' module is being overridden
+[38;5;207m[     script:str-weed] [0m[0m[str-weed] Plants Updated
+[38;5;217m[     script:str-base] [0m[0mWarning: 'JobManager' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Admin' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Commands' module is being overridden
+[38;5;73m[ citizen-server-impl] [0m[0msync thread hitch warning: timer interval of 106 milliseconds
+[38;5;217m[     script:str-base] [0m[0mWarning: 'JobManager' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Admin' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Commands' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'JobManager' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Admin' module is being overridden
+[38;5;217m[     script:str-base] [0m[0mWarning: 'Commands' module is being overridden
+[38;5;98m[    script:str-admin] [0m[0m2023-03-28 09:00:27 Admin teleportMarker raggsyy {"toggle":true}
+[38;5;187m[    script:str-spawn] [0m[0mraggsyy	1208.2681884766	-449.28790283203	66.8212890625	Exiting
+[38;5;186m[ citizen-server-main] [0m[0m-> Quitting: SIGHUP received
